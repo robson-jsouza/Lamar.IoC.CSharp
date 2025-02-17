@@ -1,0 +1,6 @@
+@Lamar.WebAPI_HostAddress = http://localhost:5195
+
+GET {{Lamar.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
