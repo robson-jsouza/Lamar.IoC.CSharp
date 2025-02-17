@@ -1,1 +1,1 @@
-# Lamar.IoC.C-
+# Lamar.IoC.CSharp
