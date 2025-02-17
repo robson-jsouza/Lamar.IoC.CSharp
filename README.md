@@ -10,6 +10,3 @@ It contains a three projects example:
 
 * Lamar.WebAPI
   it is an example of usage from a Web API.
-
-
-  
